@@ -24,7 +24,7 @@ A sleek and user-friendly currency converter web application that leverages the 
 - **[Apilayer Exchange Rates API](https://apilayer.com/)**: Reliable source for currency data.
 
 ### Tools and Resources:
-- **VS Code**: Code editor.
+- **WebStorm**: Code editor.
 - **YouTube Tutorials**: Learning design patterns and solving common issues.
 - **ChatGPT**: Debugging, refining code, and generating creative solutions.
 
@@ -34,7 +34,7 @@ A sleek and user-friendly currency converter web application that leverages the 
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-   ```bash
+   ``` bash
    git clone https://github.com/username/currency-converter.git
    cd currency-converter
 2. Open index.html in your browser to test the application.
