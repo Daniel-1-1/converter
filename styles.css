@@ -52,7 +52,7 @@ select, input, button {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #030afb;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #03068e;
 }
 
 #switch-btn {
