@@ -1,4 +1,4 @@
-const apiKey = '7OO1pRuCnjIfFRGt5HJl3N4biqJhO5dT'; // Вставьте ваш ключ сюда
+const apiKey = '7OO1pRuCnjIfFRGt5HJl3N4biqJhO5dT';
 const symbolsEndpoint = 'https://api.apilayer.com/exchangerates_data/symbols';
 const convertEndpoint = 'https://api.apilayer.com/exchangerates_data/convert';
 
